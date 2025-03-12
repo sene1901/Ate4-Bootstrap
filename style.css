@@ -1,0 +1,16 @@
+#team i{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    
+}
+
+#team .rounded-circle{
+    padding: 12px;
+    color: black;
+    
+}
+#team i:hover{
+    color: aqua !important;
+    
+}
