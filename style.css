@@ -1,5 +1,4 @@
 
-
 .barre-verte{
     width: 60px;
     height: 5px;
@@ -20,19 +19,6 @@
     /* position: absolute; */
     /* top: 50px; */
 }
-.title::before{
-    content: "";
-    background-color: green;
-    width: 100px;
-    height: 3px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    transform: translateY(63px);
-    /* position: absolute; */
-    /* top: 50px; */
-}
-
 
 .image1{
     height: 65vh;
@@ -62,4 +48,4 @@
         flex-wrap: wrap;
     }
 
-}
+
